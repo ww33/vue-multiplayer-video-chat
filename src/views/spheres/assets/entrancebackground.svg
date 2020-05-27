@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="740" viewBox="0 0 1200 740">
+    <defs>
+        <filter id="a" width="113.3%" height="113.3%" x="-6.7%" y="-6.7%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="3"/>
+        </filter>
+        <filter id="b" width="113.3%" height="113.3%" x="-6.7%" y="-6.7%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="3"/>
+        </filter>
+        <filter id="c" width="116.5%" height="116.5%" x="-8.3%" y="-8.3%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="3"/>
+        </filter>
+        <filter id="d" width="119.1%" height="119.1%" x="-9.6%" y="-9.6%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="3"/>
+        </filter>
+        <filter id="e" width="124.7%" height="124.7%" x="-12.3%" y="-12.3%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="3"/>
+        </filter>
+        <filter id="f" width="116.4%" height="116.4%" x="-8.2%" y="-8.2%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="2"/>
+        </filter>
+        <filter id="g" width="129.3%" height="129.3%" x="-14.6%" y="-14.6%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="2"/>
+        </filter>
+        <filter id="h" width="129.3%" height="129.3%" x="-14.6%" y="-14.6%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="4"/>
+        </filter>
+        <filter id="i" width="194.1%" height="194.1%" x="-47.1%" y="-47.1%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="8"/>
+        </filter>
+        <filter id="j" width="194.1%" height="194.1%" x="-47.1%" y="-47.1%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="8"/>
+        </filter>
+        <filter id="k" width="263.6%" height="263.6%" x="-81.8%" y="-81.8%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="9"/>
+        </filter>
+        <filter id="l" width="161.4%" height="161.4%" x="-30.7%" y="-30.7%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="9"/>
+        </filter>
+        <filter id="m" width="336.4%" height="336.4%" x="-118.2%" y="-118.2%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="13"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#121212" d="M0 0h1200v740H0z"/>
+        <circle cx="139.5" cy="574.5" r="67.5" fill="#2CD79A" filter="url(#a)" opacity=".504"/>
+        <circle cx="1084.5" cy="585.5" r="67.5" fill="#2CD79A" filter="url(#b)" opacity=".511"/>
+        <circle cx="1015.5" cy="519.5" r="54.5" fill="#2CD79A" filter="url(#c)" opacity=".142"/>
+        <circle cx="194" cy="513" r="47" fill="#2CD79A" filter="url(#d)" opacity=".096"/>
+        <circle cx="811.5" cy="638.5" r="36.5" fill="#2CD79A" filter="url(#e)" opacity=".371"/>
+        <circle cx="775.5" cy="175.5" r="36.5" fill="#2CD79A" filter="url(#f)" opacity=".397"/>
+        <circle cx="754.5" cy="152.5" r="20.5" fill="#2CD79A" filter="url(#g)" opacity=".177"/>
+        <circle cx="224" cy="265" r="41" fill="#2CD79A" filter="url(#h)" opacity=".21"/>
+        <circle cx="434.5" cy="163.5" r="25.5" fill="#2CD79A" filter="url(#i)" opacity=".139"/>
+        <circle cx="188.5" cy="237.5" r="25.5" fill="#2CD79A" filter="url(#j)" opacity=".091"/>
+        <circle cx="425.5" cy="652.5" r="16.5" fill="#2CD79A" filter="url(#k)" opacity=".196"/>
+        <circle cx="945" cy="120" r="44" fill="#2CD79A" filter="url(#l)" opacity=".162"/>
+        <circle cx="1033.5" cy="674.5" r="16.5" fill="#2CD79A" filter="url(#m)" opacity=".235"/>
+    </g>
+</svg>

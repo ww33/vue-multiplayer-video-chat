@@ -1,0 +1,14 @@
+@import '~vuetify/src/styles/styles.sass';
+
+.tooltip__inner {
+  font-family: $body-font-family;
+  font-size: $font-size-root;
+}
+
+.v-dialog--active .headline {
+  cursor: grab;
+}
+
+.v-dialog--active .headline:active {
+  cursor: grabbing;
+}
